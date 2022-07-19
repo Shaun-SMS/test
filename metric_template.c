@@ -1,6 +1,7 @@
 // Hull monitoring algorithm program
 
-// emergency fix
+// added a new sms logo
+// add another image
 // add a new line
 
 // Libraries to include
