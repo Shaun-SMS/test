@@ -4,6 +4,8 @@
 // add another image
 // add a new line
 
+// test Git GitHub branch, check changes
+
 // Libraries to include
 	#include <stdio.h>
 	#include <stdlib.h>
